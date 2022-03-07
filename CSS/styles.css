@@ -1,0 +1,185 @@
+a {
+  color: #7382FA;
+  font-family: 'Didact Gothic', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F4EEFF;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+p {
+  margin-bottom: 1.5%;
+  font-weight: bold;
+  line-height: 2;
+}
+
+h1 {
+  color: #95A5ED;
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+}
+
+h2 {
+  font-family: 'Didact Gothic', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+  color: #95A5ED;
+  margin-top: 1.5em;
+}
+
+h3 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #7382FA;
+  text-align: left;
+}
+
+h4 {
+  color: #7382FA;
+}
+
+hr {
+   border: dotted #A5BCF8 6px;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto;
+}
+
+.bella {
+  height: 12.5rem;
+  width: auto;
+  margin: 5% auto 0 auto;
+}
+
+.iam {
+  width: 40%;
+  position: relative;
+  margin: 3em auto 5em;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #F4EEFF;
+  padding-top: 100px;
+  /*padding: 20px;*/
+}
+
+.middle-container {
+  background-color: #F4EEFF;
+  padding-bottom: 2.5rem;
+}
+
+.bottom-container {
+  background-color: #424874;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  margin-bottom: 0;
+  color:
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+
+}
+
+.landscape  {
+  width: 100%;
+}
+
+
+.skill-row {
+  width: 50%;
+  height: auto;
+  margin: 100px auto;
+}
+
+.interior {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ifell {
+  text-align: left;
+}
+
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.mysecret {
+  text-align: left;
+}
+
+.contact-me {
+  margin: 0 auto 60px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 50px;
+}
+
+.copyright {
+  color: #F4EEFF;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #7382FA;
+  height: 1.5rem;
+  width: auto;
+}
+
+/*below is the style coding for button*/
+
+.btn {
+  background: #A6B1E1;
+  background-image: -webkit-linear-gradient(top, #A6B1E1, #424874);
+  background-image: -moz-linear-gradient(top, #A6B1E1, #424874);
+  background-image: -ms-linear-gradient(top, #A6B1E1, #424874);
+  background-image: -o-linear-gradient(top, #A6B1E1, #424874);
+  background-image: linear-gradient(to bottom, #A6B1E1, #424874);
+  -webkit-border-radius: 31;
+  -moz-border-radius: 31;
+  border-radius: 31px;
+  font-family: 'Didact Gothic', sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #DCD6F7;
+  background-image: -webkit-linear-gradient(top, #DCD6F7,  #A6B1E1);
+  background-image: -moz-linear-gradient(top, #DCD6F7,  #A6B1E1);
+  background-image: -ms-linear-gradient(top, #DCD6F7,  #A6B1E1);
+  background-image: -o-linear-gradient(top, #DCD6F7,  #A6B1E1);
+  background-image: linear-gradient(to bottom, #DCD6F7,  #A6B1E1);
+  text-decoration: none;
+}
